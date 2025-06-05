@@ -3,6 +3,8 @@
 
 ## Overview
 This repository contains my completed MongoDB fundamentals assignment, demonstrating CRUD operations, advanced queries, aggregation pipelines, and indexing concepts.
+## Database Screenshot
+![image](https://github.com/user-attachments/assets/fa65e088-1fe6-47d3-88f8-fd4dcfec6c68)
 
 ## Database Setup
 
